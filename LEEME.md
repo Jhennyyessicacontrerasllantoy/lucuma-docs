@@ -7,6 +7,12 @@ author:
 ------
     *Contreras Yessica
 
+
 Notas de la version
 ------------------
     *cambios que no son seguros.
+creditos
+-------
+    *Bacteria Palacios
+    *Barata
+
