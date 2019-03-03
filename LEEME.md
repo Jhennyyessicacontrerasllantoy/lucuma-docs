@@ -6,3 +6,7 @@ este es un proyecto para divertime.
 author:
 ------
     *Contreras Yessica
+creditos
+-------
+    *Bacteria Palacios
+    *Barata
